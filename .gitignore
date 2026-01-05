@@ -64,9 +64,9 @@ config.local
 
 # Test files
 test/
-php-7.4.33_for_xc/
 tests/
 docs/
+files/
 *.test
 
 # Distribution
